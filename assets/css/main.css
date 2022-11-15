@@ -597,6 +597,26 @@ input, select, textarea {
 			border-radius: 0;
 			padding: 0;
 		}
+		
+		
+/* Logo */
+
+
+.logo {
+/* replace this value to a value from Font Awesome icon style*/
+width: 2rem; 
+height: 2rem;
+}
+
+.logo__img {
+
+border-top-left-radius: 50% 50%; 
+border-top-right-radius: 50% 50%; 
+border-bottom-right-radius: 50% 50%; 
+border-bottom-left-radius: 50% 50%; 
+display: block;
+width: 100%;
+}
 
 /* Icon */
 
